@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maket/static/css/main.0f048667.css",
+    "main.js": "/maket/static/js/main.d83720c9.js",
+    "static/js/787.432acd21.chunk.js": "/maket/static/js/787.432acd21.chunk.js",
+    "index.html": "/maket/index.html",
+    "main.0f048667.css.map": "/maket/static/css/main.0f048667.css.map",
+    "main.d83720c9.js.map": "/maket/static/js/main.d83720c9.js.map",
+    "787.432acd21.chunk.js.map": "/maket/static/js/787.432acd21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f048667.css",
+    "static/js/main.d83720c9.js"
+  ]
+}
