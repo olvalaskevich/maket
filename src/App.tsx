@@ -3,12 +3,12 @@ import './App.css';
 import styled from "styled-components";
 import {HeadStyled, TextStyled} from "./components/Text.styled";
 import {MyBtn} from "./components/MyBtn.styled";
-
+import pict from "./images/pict.png"
 function App() {
   return (
       <div>
         <Card>
-            <img src={process.env.PUBLIC_URL + 'images/pict.png'} alt="logo"/>
+            <img src={pict} alt="pictures"/>
             <HeadStyled>Headline</HeadStyled>
             <TextStyled>Faucibus. Faucibus. Sit sit sapien sit tempusrisu ut. Sit molestie ornare in venen.</TextStyled>
             <MyBtn primary>See more</MyBtn>
