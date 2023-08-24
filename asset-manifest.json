@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/maket/static/css/main.0f048667.css",
-    "main.js": "/maket/static/js/main.d83720c9.js",
+    "main.js": "/maket/static/js/main.e2560068.js",
     "static/js/787.432acd21.chunk.js": "/maket/static/js/787.432acd21.chunk.js",
+    "static/media/pict.png": "/maket/static/media/pict.c0982ff6ff7d2967cd34.png",
     "index.html": "/maket/index.html",
     "main.0f048667.css.map": "/maket/static/css/main.0f048667.css.map",
-    "main.d83720c9.js.map": "/maket/static/js/main.d83720c9.js.map",
+    "main.e2560068.js.map": "/maket/static/js/main.e2560068.js.map",
     "787.432acd21.chunk.js.map": "/maket/static/js/787.432acd21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f048667.css",
-    "static/js/main.d83720c9.js"
+    "static/js/main.e2560068.js"
   ]
 }
